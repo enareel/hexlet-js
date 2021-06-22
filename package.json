@@ -4,6 +4,9 @@
   "type": "module",
   "description": "Мой первый проект на Хекслете",
   "main": "index.js",
+  "bin": {
+    "index": "./index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
