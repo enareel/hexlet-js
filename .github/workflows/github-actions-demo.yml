@@ -1,7 +1,7 @@
 name: Hexlet-JS Lint Workflow
 on:
   push:
-  pull_requst:
+  pull_request:
     branches:
       - main
 jobs:
